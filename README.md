@@ -61,5 +61,3 @@ A premium e-commerce website for luxury shirts with smooth animations, cart func
 ### External Resources
 - **Unsplash** - Product images
 - **RandomUser.me** - Testimonial avatars
-
-## 📁 Project Structure
