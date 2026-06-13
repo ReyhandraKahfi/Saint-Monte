@@ -35,7 +35,7 @@ A premium e-commerce website for luxury shirts with smooth animations, cart func
 
 ## 🚀 Demo
 
-**Click the badge above or visit:** [https://reyhandrakahfi.github.io/Saint-Monte/](https://reyhandrakahfi.github.io/Saint-Monte/)
+**Click here to visit:** [https://reyhandrakahfi.github.io/Saint-Monte/](https://reyhandrakahfi.github.io/Saint-Monte/)
 
 ## 📸 Screenshots
 
