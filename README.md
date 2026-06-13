@@ -40,10 +40,10 @@ A premium e-commerce website for luxury shirts with smooth animations, cart func
 ## 📸 Screenshots
 
 <!-- Add screenshots here -->
-![Hero Section](./screenshots/hero.png)
-![Collections](./screenshots/collections.png)
-![Cart](./screenshots/cart.png)
-![Checkout](./screenshots/checkout.png)
+![Hero Section](./screenshot/hero.png)
+![Collections](./screenshot/collections.png)
+![Cart](./screenshot/cart.png)
+![Checkout](./screenshot/checkout.png)
 
 ## 🛠️ Technologies Used
 
